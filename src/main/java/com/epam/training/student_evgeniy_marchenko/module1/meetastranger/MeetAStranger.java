@@ -1,4 +1,4 @@
-package com.epam.training.student_evgeniy_marchenko.meetastranger;
+package com.epam.training.student_evgeniy_marchenko.module1.meetastranger;
 
 import java.util.Scanner;
 
